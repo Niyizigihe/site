@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 66">
+  <!-- Background rectangle for hit testing -->
+  <rect width="420" height="66" fill="none"/>
+  
+  <!-- Main text "EJO HEZA HACU" -->
+  <text x="10" y="45" font-family="Montserrat, sans-serif" font-size="38" font-weight="700" fill="currentColor">
+    <tspan fill="#2196F3">EJO</tspan>
+    <tspan x="105" fill="#1976D2">HEZA</tspan>
+    <tspan x="240" fill="#0D47A1">HACU</tspan>
+  </text>
+  
+  <!-- Tagline -->
+  <text x="10" y="60" font-family="Lato, sans-serif" font-size="12" fill="#666666">EMPOWERING THROUGH COOPERATION</text>
+  
+  <!-- Decorative elements -->
+  <path d="M95 30 L95 50" stroke="#2196F3" stroke-width="2"/>
+  <path d="M230 30 L230 50" stroke="#1976D2" stroke-width="2"/>
+</svg>
